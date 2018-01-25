@@ -1,9 +1,9 @@
-# Vue Content Curation App
+# Vue Content Curation Website
 ![preview](preview.png)
 
-> A content curation app built with Vue and Cosmic JS
+> A content curation website built with Vue and Cosmic JS
 
-> [Check out the live demo hosted on Cosmic JS hosting](http://cosmic-stash.cosmicapp.co)
+> [Check out the live demo hosted on Cosmic JS hosting](https://vue-content-curation.cosmicapp.co/)
 
 ## Build Setup
 
